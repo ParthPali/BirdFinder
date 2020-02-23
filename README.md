@@ -4,7 +4,7 @@ A website that locates the rare birds around you.
 
 t# Available Scripts
 
-In the project directory, you can run:
+In the project directory, run:
 
 ### `npm start`
 
