@@ -4,7 +4,10 @@ A website that locates the rare birds around you.
 
 t# Available Scripts
 
+Make sure you have node.js installed in your machine
+
 In the project directory, run:
+### `npm install react-scripts'
 
 ### `npm start`
 
