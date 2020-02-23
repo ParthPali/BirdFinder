@@ -27,24 +27,6 @@ function ShowComponents() {
               </div>
             </center>
         </div>
-        <div label="Rare Birds around you">
-            <center>
-              <br/>
-              <font size="6"><b>Latest Updates:</b></font>
-              <div style={{width:80+'%'}} align="left">
-                <Reactdatalist/>
-              </div>
-            </center>
-        </div>
-        <div label="Maps">
-            <center>
-              <br/>
-              <font size="6"><b>Find the closest rare bird near you:</b></font>
-              <div style={{width:80+'%'}} align="center">
-                <Reactmodal/>
-              </div>
-            </center>
-        </div>
         <div label="Alert">
             <center>
               <br/>
